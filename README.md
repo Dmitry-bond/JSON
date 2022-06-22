@@ -103,8 +103,8 @@
 	"Steps to reproduce": "Steps to reproduce",
 	"Actual result":"Actual result",
 	"Expected result":"Expected result",
-	"Severity":"High",
-	"Priority":"Major"
+	"Severity":"Major",
+	"Priority":"High"
 	}
 ```
  16. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
