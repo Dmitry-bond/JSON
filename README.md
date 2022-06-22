@@ -64,11 +64,11 @@
 	Esc
 	:wq
 ```
- 11. Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON
+ 11. Создать файл skills.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON
  ```
-	touch sklls.json
+	touch skills.json
 	
-	vim sklls.json
+	vim skills.json
 	i
 	
 	{
@@ -81,8 +81,8 @@
 ```
  12. Отправить сразу 2 файла на внешний репозиторий.
  ```
-	git add preferences.json sklls.json
-	git commit -m "add preferences.json sklls.json"
+	git add preferences.json skills.json
+	git commit -m "add preferences.json skills.json"
 	git push
  ``` 
  13. На веб интерфейсе создать файл bug_report.json.
